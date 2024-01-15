@@ -22,8 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=limsh0731&show_icons=true&locale=en&layout=compact" alt="limsh0731" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=limsh0731&show_icons=true&locale=en" alt="limsh0731" /></p>
-
 <!--
 **LimSH0731/LimSH0731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
