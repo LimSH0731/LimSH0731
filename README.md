@@ -1,6 +1,6 @@
 ### Hello World
 
-취준생 졸예자 전공생
+취준생 전공생
 
 <h1 align="center">Hi 👋, I'm Lim Seunghwan</h1>
 <h3 align="center">A passionate developer from South Korea</h3>
